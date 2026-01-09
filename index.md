@@ -1,22 +1,25 @@
----
-title: Welcome to My CS-499 ePortfolio
----
+# Welcome to My CS-499 Computer Science Capstone ePortfolio
 
-# Amaro Terrazas - SNHU Computer Science Capstone
+Hello! I'm Amaro Terrazas, a Computer Science student at Southern New Hampshire University.  
+This ePortfolio presents my selected and enhanced artifacts from previous coursework, demonstrating growth across three key areas of computer science:
 
-This ePortfolio showcases my selected enhancements from previous coursework, demonstrating growth in:
+- **Software Design & Engineering**  
+  Transformation of Agile documentation into a functional interactive Kanban board prototype (from CS-250)
 
-- **Software Design & Engineering** — Agile Kanban prototype from CS-250 Sprint Review  
-- **Algorithms & Data Structures** — Optimized BST/Hash Table from CS-300 Advising Assistance  
-- **Databases** — Enhanced MongoDB analytics from CS-340 Dashboard  
+- **Algorithms & Data Structures**  
+  Optimization of Binary Search Tree with balancing and hybrid improvements (from CS-300)
 
-[View Code Review Video](#) (pending link addition)  
-[Professional Self-Assessment Narrative](narrative.md)  
-[GitHub Repository](https://github.com/yourusername/your-capstone-repo)  
+- **Databases**  
+  Advanced aggregation analytics and security enhancements in MongoDB dashboard (from CS-340)
 
-## Navigation
-- [Enhancements Overview](enhancements.md)  
-- [About Me](about.md)  
-- [Contact](contact.md)
+### Navigation
 
-Built with GitHub Pages & Jekyll Minimal theme.
+- [Software Design & Engineering Enhancement](software-engineering.md)  
+- [Algorithms & Data Structures Enhancement](algorithms-data-structures.md)  
+- [Databases Enhancement](databases.md)  
+- [Professional Self-Assessment](self-assessment.md)  
+- [Code Review Video](https://youtu.be/your-video-link-here) *(pending actual link)*
+
+All enhancements align with SNHU Computer Science Program Outcomes and industry best practices.
+
+Built with GitHub Pages using the Cayman theme.
