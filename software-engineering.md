@@ -24,7 +24,7 @@ This moves the artifact from theoretical process documentation to a practical, u
 - **Outcome 4**: Innovative web techniques for industry-specific Agile/project management goals
 
 ### Visuals & Code
-[View the enhanced Kanban prototype repository](https://github.com/yourusername/kanban-agile-prototype) *(replace with real link)*
+[View the enhanced Kanban prototype repository](https://github.com/AmaroT/kanban-agile-prototype) *(pending real link)*
 
 *(Screenshots here)*  
 ![Kanban Board Example](images/kanban-demo.png)  
