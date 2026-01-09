@@ -1,7 +1,3 @@
----
-title: Software Design & Engineering Enhancement
----
-
 # Software Design & Engineering
 
 ## Original Artifact
