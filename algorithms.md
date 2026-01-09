@@ -24,7 +24,7 @@ These changes address limitations in unbalanced trees and demonstrate deeper und
 - **Outcome 4**: Use of well-founded and innovative techniques (balancing, hybrid structures) for efficient computing
 
 ### Visuals & Code
-[View the enhanced BST/Hash Table repository](https://github.com/yourusername/cs300-enhanced) *(replace with real link)*
+[View the enhanced BST/Hash Table repository](https://github.com/AmaroT/cs300-enhanced) *(pending real link)*
 
 *(Add before/after screenshots or complexity table here)*  
 **Time Complexity Comparison**  
