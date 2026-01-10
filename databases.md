@@ -25,7 +25,6 @@ These improvements move the artifact from basic querying to production-like anal
 ### Visuals & Code
 [View the enhanced MongoDB dashboard repository](https://github.com/AmaroT/cs340-enhanced) *(pending link)*
 
-*(Add screenshots of pipelines, charts, results)*  
 Example pipeline result visualization:  
 ![Aggregation Results](images/mongoDbPipelineExample.png)
 
