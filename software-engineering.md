@@ -27,7 +27,7 @@ This moves the artifact from theoretical process documentation to a practical, u
 [View the enhanced Kanban prototype repository](https://github.com/AmaroT/kanban-agile-prototype) *(pending real link)*
 
 *(Screenshots here)*  
-![Kanban Board Example](images/kanban-demo.png)  
+![Kanban Board Example](images/kanbanExample.png)  
 ![Drag & Drop in Action](images/drag-drop.gif)
 
 This enhancement clearly shows growth in software engineering practices, modularity, and user-centered design.
