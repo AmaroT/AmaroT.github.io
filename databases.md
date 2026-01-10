@@ -27,6 +27,6 @@ These improvements move the artifact from basic querying to production-like anal
 
 *(Add screenshots of pipelines, charts, results)*  
 Example pipeline result visualization:  
-![Aggregation Results](images/mongo-aggregation-example.png)
+![Aggregation Results](images/mongoDbPipelineExample.png)
 
 This enhancement demonstrates strong database design, querying, and secure data handling skills.
