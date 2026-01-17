@@ -27,13 +27,13 @@ A good team member in software development **communicates effectively**, **colla
 - Being accountable for **delivering high-quality work** while supporting teammates.
 
 ## Repository Contents
-- [Sprint Review and Retrospective](https://github.com/AmaroT/CS-Portfolio-Projects/blob/main/CS-250/Sprint%20Review%20and%20Retrospective.docx): *My final project deliverable summarizing the Agile development process and lessons learned.*
-- [Top Five Travel Destinations](https://github.com/AmaroT/CS-Portfolio-Projects/tree/main/CS-250/TopFive):*A project analyzing and ranking five top travel destinations based on various criteria, including destination name, short description, and destination picture.*
-- [Top Five Destinations for Well Being Slideshow](https://github.com/AmaroT/CS-Portfolio-Projects/tree/main/CS-250/SlideShow): *A slideshow presentation showcasing five destinations that promote health and wellness, focusing on relaxation, nature, and mindfulness.*
+- [Sprint Review and Retrospective](https://github.com/AmaroT/AmaroT.github.io/blob/main/original-artifacts/CS-250-Software-Design/Sprint%20Review%20and%20Retrospective.docx): *My final project deliverable summarizing the Agile development process and lessons learned.*
+- [Top Five Travel Destinations](https://github.com/AmaroT/AmaroT.github.io/tree/main/original-artifacts/CS-250-Software-Design/TopFive):*A project analyzing and ranking five top travel destinations based on various criteria, including destination name, short description, and destination picture.*
+- [Top Five Destinations for Well Being Slideshow](https://github.com/AmaroT/AmaroT.github.io/tree/main/original-artifacts/CS-250-Software-Design/SlideShow): *A slideshow presentation showcasing five destinations that promote health and wellness, focusing on relaxation, nature, and mindfulness.*
 - `README.md`: This document providing context for my submission.
 
 ## Submission Details
 - **Course:** CS 250 - Software Development Lifecycle
 - **Instructor:** Professor Ulucay
 - **Date Submitted:** 2/26/2025
-- **[GitHub Repository Link](https://github.com/AmaroT/CS-Portfolio-Projects/tree/main/CS-250)** 
+- **[GitHub Repository Link](https://github.com/AmaroT/AmaroT.github.io/tree/main/original-artifacts/CS-250-Software-Design)** 
