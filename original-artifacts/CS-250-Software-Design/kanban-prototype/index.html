@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kanban Board Prototype - Agile Task Manager</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>Kanban Board - SNHU Travel Project Task Manager</h1>
+  </header>
+
+  <main class="kanban-board">
+    <section class="column" id="backlog">
+      <h2>Backlog</h2>
+      <div class="cards" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+      <button onclick="addCard('backlog')">+ Add Task</button>
+    </section>
+
+    <section class="column" id="todo">
+      <h2>To Do</h2>
+      <div class="cards" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+      <button onclick="addCard('todo')">+ Add Task</button>
+    </section>
+
+    <section class="column" id="inprogress">
+      <h2>In Progress</h2>
+      <div class="cards" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+      <button onclick="addCard('inprogress')">+ Add Task</button>
+    </section>
+
+    <section class="column" id="done">
+      <h2>Done</h2>
+      <div class="cards" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+      <button onclick="addCard('done')">+ Add Task</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>Progress: <span id="progress">0%</span></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
