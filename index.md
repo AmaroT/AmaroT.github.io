@@ -20,6 +20,4 @@ This ePortfolio presents my selected and enhanced artifacts from previous course
 - [Professional Self-Assessment](self-assessment.md)  
 - [Code Review Video](https://youtu.be/_tUouLkncYM)
 
-All enhancements align with SNHU Computer Science Program Outcomes and industry best practices.
-
 Built with GitHub Pages using the Cayman theme.
