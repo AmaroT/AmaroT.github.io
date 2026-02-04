@@ -18,8 +18,6 @@ This ePortfolio presents my selected and enhanced artifacts from previous course
 - [Algorithms & Data Structures Enhancement](algorithms-data-structures.md)  
 - [Databases Enhancement](databases.md)  
 - [Professional Self-Assessment](self-assessment.md)  
-- [Code Review Video](https://youtu.be/your-video-link-here) *(pending actual link)*
-
-All enhancements align with SNHU Computer Science Program Outcomes and industry best practices.
+- [Code Review Video](https://youtu.be/_tUouLkncYM)
 
 Built with GitHub Pages using the Cayman theme.

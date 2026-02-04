@@ -17,8 +17,8 @@
 
 ## How to Test
 1. Compile: g++ enhanced-BinarySearchTree.cpp enhanced-ProjectTwo.cpp -o avl-test
-2. Run: ./avl-test
-3. Choose option 1 to load courses.csv (or your test CSV)
+2. Run: ./cs300-test
+3. Choose option 1 to load courses.csv then type "courses.csv" then press enter
 4. Choose option 2 to print sorted list (tree is now balanced)
 5. Choose option 3 to search a course and verify functionality
 
@@ -26,6 +26,4 @@
 - enhanced-BinarySearchTree.h     Header with AVL support (height, rotations)
 - enhanced-BinarySearchTree.cpp   Implementation with balancing logic
 - enhanced-ProjectTwo.cpp         Full program (original driver + enhanced BST)
-- README.md                       This file
-
-This enhancement aligns with Course Outcome 3 (algorithmic principles and trade-offs) and Outcome 4 (innovative techniques for efficient solutions).
+- README.md
