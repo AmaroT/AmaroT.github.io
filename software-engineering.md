@@ -24,9 +24,12 @@ This moves the artifact from theoretical process documentation to a practical, u
 - **Outcome 4**: Innovative web techniques for industry-specific Agile/project management goals
 
 ### Visuals & Code
-[Interactive Kanban Board](https://AmaroT.github.io/enhanced-artifacts/kanban-prototype/) (https://github.com/AmaroT/AmaroT.github.io/tree/main/enhanced-artifacts/kanban-prototype)
+### Enhanced Kanban Board Prototype
 
-![Kanban Board Example](images/kanbanExample.png)  
-![Drag & Drop in Action](images/drag-drop.gif)
+This interactive Kanban board was built from the CS-250 Agile retrospective. It features draggable cards, dynamic task management, localStorage persistence, and progress tracking.
+
+**Live demo:** [Interactive Kanban Board](https://AmaroT.github.io/enhanced-artifacts/kanban-prototype/)  
+**Repository:** [View source code on GitHub](https://github.com/AmaroT/AmaroT.github.io/tree/main/enhanced-artifacts/kanban-prototype)
+
 
 This enhancement clearly shows growth in software engineering practices, modularity, and user-centered design.
