@@ -1,7 +1,3 @@
----
-title: Algorithms & Data Structures Enhancement
----
-
 # Algorithms & Data Structures
 
 ## Original Artifact
