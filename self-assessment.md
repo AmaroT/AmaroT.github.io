@@ -21,7 +21,7 @@ This capstone has solidified my readiness to enter the field, combining technica
 https://AmaroT.github.io/  
 
 **Code Review Video**  
-[CS-499 Milestone One Code Review](https://youtu.be/_tUouLkncYM))
+[CS-499 Milestone One Code Review](https://youtu.be/_tUouLkncYM)
 
 **Enhanced Artifacts & Narratives**  
 - [Software Design & Engineering – Interactive Kanban Prototype](https://AmaroT.github.io/enhanced-artifacts/kanban-prototype/)  
