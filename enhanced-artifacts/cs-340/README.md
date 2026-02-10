@@ -23,14 +23,16 @@
    - Start MongoDB: `brew services start mongodb/brew/mongodb-community`
 
 2. **Create virtual environment** (in this folder):  
+```
 python3 -m venv venv
 source venv/bin/activate
-
+```
 3. **Install dependencies**:
+```
    pip install dash dash-leaflet pymongo pandas plotly jupyter
+```
 
-
-4. **Create or use a test CSV** (optional – for data):  
+5. **Create or use a test CSV** (optional – for data):  
 - Place a file named `animal_shelter.csv` in this folder with columns:  
   `animal_type,breed,sex_upon_outcome,age_upon_outcome_in_weeks,location_lat,location_long,name,outcome_type`  
 - Or insert test data manually (see below).
