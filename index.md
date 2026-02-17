@@ -23,8 +23,8 @@ This ePortfolio presents my selected and enhanced artifacts from previous course
 - [Code Review Video](https://youtu.be/_tUouLkncYM)
 
 ## Project Milestones & Documents
-- [Milestone Two – Software Design Narrative (Word)](https://github.com/AmaroT/AmaroT.github.io/blob/main/enhanced-artifacts/docs/3-2%20Narrative.docx)
-- [Milestone Three – Algorithms Narrative (Word)](https://github.com/AmaroT/AmaroT.github.io/blob/main/enhanced-artifacts/docs/4-2%20.docx)
-- [Milestone Four – Databases Narrative (Word)](https://github.com/AmaroT/AmaroT.github.io/blob/main/enhanced-artifacts/docs/5-2.docx)
+- [Milestone Two – Software Design Narrative (Word)](https://github.com/AmaroT/AmaroT.github.io/raw/refs/heads/main/enhanced-artifacts/docs/3-2%20Narrative.docx)
+- [Milestone Three – Algorithms Narrative (Word)](https://github.com/AmaroT/AmaroT.github.io/raw/refs/heads/main/enhanced-artifacts/docs/4-2%20.docx)
+- [Milestone Four – Databases Narrative (Word)]([https://github.com/AmaroT/AmaroT.github.io/blob/main/enhanced-artifacts/docs/5-2.docx](https://github.com/AmaroT/AmaroT.github.io/raw/refs/heads/main/enhanced-artifacts/docs/5-2.docx))
 
 Built with GitHub Pages using the Cayman theme.
